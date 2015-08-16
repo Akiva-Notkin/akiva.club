@@ -23,8 +23,16 @@
   <div class="container-fluid">
   	<div class="row">
   		<div class="col-md-12">
-  		<img src="images/Pleiades_Spitzer_big.jpg" class="img-responsive" alt="Responsive image">
-  		<img src="images/Pleiades_Spitzer_big.jpg" class="img-responsive" alt="Responsive image">
+  			<div id="mycarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="item active">
+        <img src="images/Pleiades_Spitzer_big.jpg" alt="" class="img-responsive">
+           <div class="carousel-caption">
+           Insert your text here !
+           </div>
+        </div>
+    </div>
+</div>
   		</div>
   	</div>
   </div>

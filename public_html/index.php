@@ -1,10 +1,13 @@
 <html>
  <head>
-  <title>this is the title</title>
+ <link rel="stylesheet"
+ type="text/css"
+ href="../bootstrap-3.3.5-dist/css/bootstrap-theme.css">
+ <link rel="stylesheet"
+ type="text/css"
+ href="../bootstrap-3.3.5-dist/css/bootstrap.css">
+  <title>TITLE OF PAGE</title>
  </head>
  <body>
- 
-  Hello World! Even more! EVEN MORE!
-  
  </body>
 </html>

@@ -24,6 +24,8 @@
   	<div class="row">
   		<div class="col-md-12">
   			<img src="images/cats.jpg" class="img-responsive" alt="Responsive image">
+  			<img src="images/cats.jpg" class="img-responsive" alt="Responsive image">
+  			<img src="images/cats.jpg" class="img-responsive" alt="Responsive image">
   		</div>
   	</div>
   </div>

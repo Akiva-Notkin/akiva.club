@@ -6797,4 +6797,10 @@ button.close {
     display: none !important;
   }
 }
+
+#bg{
+    background-size:100% auto;
+    background:url('Pleiades_Spitzer_big.jpg"') no-repeat center center;
+    height: 500px;
+}
 /*# sourceMappingURL=bootstrap.css.map */

@@ -50,8 +50,8 @@
   <div class="col-md-6">.col-md-6</div>
 </div>
 <div class="row">
-  <div class="col-md-12">
-  <h1  background="images/Pleiades_Spitzer_big.jpg">Custom heading</h1>
+  <div class="col-md-12" background-image="images/Pleiades_Spitzer_big.jpg">
+  <h1>Custom heading</h1>
   </div>
 </div>
   </div>

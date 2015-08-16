@@ -28,7 +28,13 @@
         <div class="item active">
         <img src="images/Pleiades_Spitzer_big.jpg" alt="" class="img-responsive">
            <div class="carousel-caption">
-           <h1>Insert your text here !</h1>
+           <h1>The Pleiades</h1>
+           <p>In astronomy, the Pleiades (/ˈplaɪ.ədiːz/ or /ˈpliː.ədiːz/), 
+           or Seven Sisters (Messier 45 or M45), is an open star cluster 
+           containing middle-aged hot B-type stars located in the constellation of Taurus. 
+           It is among the nearest star clusters to Earth and is the cluster most obvious 
+           to the naked eye in the night sky. The celestial entity has several meanings 
+           in different cultures and traditions.</p>
            </div>
         </div>
     </div>

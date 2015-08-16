@@ -31,6 +31,7 @@
         <li><a href="#">Page 3</a></li>
       </ul>
     </div>
+  <div class="container-fluid">
   	<div class="row">
   		<div class="col-md-12">
   			<div id="mycarousel" class="carousel slide" data-ride="carousel">
@@ -48,6 +49,7 @@
            </div>
         </div>
     </div>
+</div>
 </div>
   		</div>
   	</div>

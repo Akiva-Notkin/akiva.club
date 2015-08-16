@@ -28,7 +28,7 @@
         <div class="item active">
         <img src="images/Pleiades_Spitzer_big.jpg" alt="" class="img-responsive">
            <div class="carousel-caption">
-           Insert your text here !
+           <h1>Insert your text here !</h1>
            </div>
         </div>
     </div>

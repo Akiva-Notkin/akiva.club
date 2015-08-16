@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
   <body>
-	<nav class="navbar navbar-fixed-top">
+	<nav class="navbar navbar-fixed-top" background="#000000">
   		<div class="container-fluid">
   			<div class="navbar-header">
       			<a class="navbar-brand" href="#">WebSiteName</a>

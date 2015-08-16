@@ -18,43 +18,43 @@
     <![endif]-->
   </head>
   <body>
-<nav class="navbar navbar-fixed-top">
-  <div class="container-fluid">
-  	<div class="navbar-header">
-      <a class="navbar-brand" href="#">WebSiteName</a>
-    </div>
-    <div>
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Page 1</a></li>
-        <li><a href="#">Page 2</a></li>
-        <li><a href="#">Page 3</a></li>
-      </ul>
-    </div>
-  <div class="container-fluid">
-  	<div class="row">
-  		<div class="col-md-12">
-  			<div id="mycarousel" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="item active">
-        <img src="images/Pleiades_Spitzer_big.jpg" alt="" class="img-responsive">
-           <div class="carousel-caption">
-           <h1>The Pleiades</h1>
-           <p>In astronomy, the Pleiades (/ˈplaɪ.ədiːz/ or /ˈpliː.ədiːz/), 
-           or Seven Sisters (Messier 45 or M45), is an open star cluster 
-           containing middle-aged hot B-type stars located in the constellation of Taurus. 
-           It is among the nearest star clusters to Earth and is the cluster most obvious 
-           to the naked eye in the night sky. The celestial entity has several meanings 
-           in different cultures and traditions.</p>
-           </div>
-        </div>
-    </div>
-</div>
-</div>
+	<nav class="navbar navbar-fixed-top">
+  		<div class="container-fluid">
+  			<div class="navbar-header">
+      			<a class="navbar-brand" href="#">WebSiteName</a>
+    		</div>
+    	<div>
+      		<ul class="nav navbar-nav">
+        		<li class="active"><a href="#">Home</a></li>
+        		<li><a href="#">Page 1</a></li>
+        		<li><a href="#">Page 2</a></li>
+        		<li><a href="#">Page 3</a></li>
+      		</ul>
+   	 	</div>
+   	</nav>
+  		<div class="container-fluid">
+  			<div class="row">
+  				<div class="col-md-12">
+  					<div id="mycarousel" class="carousel slide" data-ride="carousel">
+    					<div class="carousel-inner">
+        					<div class="item active">
+        						<img src="images/Pleiades_Spitzer_big.jpg" alt="" class="img-responsive">
+           							<div class="carousel-caption">
+           								<h1>The Pleiades</h1>
+           								<p>In astronomy, the Pleiades (/ˈplaɪ.ədiːz/ or /ˈpliː.ədiːz/), 
+								           or Seven Sisters (Messier 45 or M45), is an open star cluster 
+								           containing middle-aged hot B-type stars located in the constellation of Taurus. 
+								           It is among the nearest star clusters to Earth and is the cluster most obvious 
+								           to the naked eye in the night sky. The celestial entity has several meanings 
+								           in different cultures and traditions.</p>
+           							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+  			</div>
   		</div>
   	</div>
-  </div>
-  </nav>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

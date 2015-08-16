@@ -22,7 +22,7 @@
     <h1>Hello, world!</h1>
     <div class="row">
     	<div class="col-md-12">
-    		<img src="/images/cats.jpg" alt="Responsive image" class-"img-responsive">
+    		<img src="/images/cats.jpg" alt="Responsive image" class="img-responsive">
 	    </div>
     </div>
 

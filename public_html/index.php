@@ -34,7 +34,7 @@
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">
-  	<img src="images/cats.jpg" class="img-responsive" alt="Responsive image">
+  	<img src="images/Pleiades_Spitzer_big.jpg" class="img-responsive" alt="Responsive image">
   </div>
 </div>
 <div class="row">

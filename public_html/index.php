@@ -18,8 +18,7 @@
     <![endif]-->
   </head>
   <body>
-    <h1>Hello, world!</h1>
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-fixed-top">
   <div class="container-fluid">
   	<div class="navbar-header">
       <a class="navbar-brand" href="#">WebSiteName</a>

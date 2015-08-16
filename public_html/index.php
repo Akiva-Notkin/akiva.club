@@ -50,6 +50,11 @@
   <div class="col-md-6">.col-md-6</div>
   <div class="col-md-6">.col-md-6</div>
 </div>
+<div class="row">
+  <div class="col-md-12">
+  	<img src="images/Pleiades_Spitzer_big.jpg" class="img-responsive" alt="Responsive image">
+  </div>
+</div>
   </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

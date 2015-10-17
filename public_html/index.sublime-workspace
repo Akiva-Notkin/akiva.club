@@ -3,10 +3,142 @@
 	{
 		"selected_items":
 		[
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"type",
+				"typeofinitialize"
+			],
+			[
+				"initiali",
+				"initializetext"
+			],
+			[
+				"parceldetail",
+				"parceldetailtext"
+			],
+			[
+				"par",
+				"parceldetailtext"
+			],
+			[
+				"parcel",
+				"parcelpdf"
+			],
+			[
+				"pa",
+				"parcelpdftext"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/admin/mlsciba.php",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/createwwwfolder.php",
+			"settings":
+			{
+				"buffer_size": 20406,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/createdefaultfolder.php",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/guest/initialize.js",
+			"settings":
+			{
+				"buffer_size": 7908,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/template.php",
+			"settings":
+			{
+				"buffer_size": 11988,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/free/initialize.js",
+			"settings":
+			{
+				"buffer_size": 9238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "    var namearray = [\"electric-lines\", \"watersupply\", \"drainagewastewater\", \"parcels\", \"contaminated-sites\", \"2009bldgs\", \"2002bldgs\", \"kc_dwelling_units\", \"hh-growth\", \"elementary_schools\", \"middle_schools\", \"high_schools\", \"alternative-schools\", \"private-schools\", \"major-city-projects\", \"ongoing-initiatives\"];\n",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/lib/drive-menu.js",
+			"settings":
+			{
+				"buffer_size": 46475,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/drive4re-premium-menus.js",
+			"settings":
+			{
+				"buffer_size": 77601,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/teammanagement.php",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmanagementnew.php",
+			"settings":
+			{
+				"buffer_size": 2679,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/register.php",
+			"settings":
+			{
+				"buffer_size": 4458,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/navbar.php",
+			"settings":
+			{
+				"buffer_size": 2073,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,10 +172,48 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Akiva/Documents/GitHub/Front-End/lib/helperfunctions.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/drive.min.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/createdefaultfolder.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/indexold.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmemberscreate.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/createwwwfolder.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmanagementcontrol.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmemberschoice.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/template.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/registerthanks.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/drive4re-premium-menus.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/drive4s-premium-menus.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/free/initialize.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/projectcreate.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/guest/initialize.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmanagement.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/mainstyles.css",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/press.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/slpw/logintemplate.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/membershipexpired.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/github-push.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/parcelpdf.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/parceldetail.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/fep-minimal/initialize.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/menuitems/king_cty/KCparcelSearch.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/slpw/sitelokpw.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/common/menuitems/kitsap_cty/KitsapParcelSearch.js",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/fep-minimal/index.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/paymentpage.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/index.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/guest/index.php",
+		"/C/Users/Akiva/Documents/GitHub/Front-End/www/members/register.php",
+		"/C/Users/Akiva/Documents/GitHub/akiva.club/public_html/index.php",
+		"/C/Users/Akiva/Documents/GitHub/akiva.club/public_html/template.html",
+		"/C/Users/Akiva/Downloads/parcelpdf.php",
+		"/C/Users/Akiva/Downloads/parceldetail.php",
+		"/C/Users/Akiva/Documents/GitHub/akiva.club/public_html/tutorial-1-finished.html",
+		"/C/Users/Akiva/Downloads/cartodbjs_tutorial_create_map.zip"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -57,6 +227,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"25px",
+			"50px",
+			"\\\"",
+			"disabled",
+			"activating",
+			"patch",
+			"url",
+			"disabled",
+			"bicy",
+			"parcel-a",
+			"schools",
+			"},\n",
+			"landuse",
+			"ECAs",
+			"landuse",
+			"ECAs",
+			" \n",
+			"disabled",
+			"drive.menu",
+			"Eb-",
+			"EBA",
+			"ebt",
+			"draw_sections",
+			"index",
+			"On The Market"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -64,6 +259,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"3em",
+			"25px",
+			"\""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -74,14 +272,396 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/admin/mlsciba.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/createwwwfolder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12777,
+								12777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/createdefaultfolder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/guest/initialize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6254,
+								6313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 1.0,
+						"translation.y": 4425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6757,
+								6744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3413.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/free/initialize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8940,
+								8813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/lib/drive-menu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13818,
+								13818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8628.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/drive4re-premium-menus.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7620,
+								7637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/teammanagement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/projectmanagementnew.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/members/register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Akiva/Documents/GitHub/Front-End/www/common/navbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -118,7 +698,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":

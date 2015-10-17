@@ -15,11 +15,11 @@
     function init(){
       // initiate leaflet map
       map = new L.Map('cartodb-map', { 
-        center: [40,-98],
-        zoom: 4
+        center: [0,0],
+        zoom: 1
       })
 
-      L.tileLayer('https://dnv9my2eseobd.cloudfront.net/v3/cartodb.map-4xtxp73f/{z}/{x}/{y}.png', {
+      L.tileLayer('http://mapdesign.icaci.org/wp-content/uploads/2014/08/MapCarte247_tolkien_large.png', {
         attribution: 'Mapbox <a href="http://mapbox.com/about/maps" target="_blank">Terms &amp; Feedback</a>'
       }).addTo(map);
 

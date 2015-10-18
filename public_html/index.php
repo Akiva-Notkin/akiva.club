@@ -14,8 +14,7 @@ require_once('../includes/helpers.php');
         <p>        </p>
   	</div>
   	<div class="row">
-	  	<div class="col-md-2">
-	  	</div>
+	  	<div class="col-md-1"></div>
 	  	<div class="col-md-4">
 			<h1>Words create worlds</h1>
 	  		<p>
@@ -61,7 +60,7 @@ require_once('../includes/helpers.php');
 			  </a>
 			</div>
 	  	</div>
-	  	<div class="col-md-2"></div>
+	  	<div class="col-md-1"></div>
 	</div>
 </div>
 

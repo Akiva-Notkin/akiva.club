@@ -11,9 +11,15 @@ require_once('../includes/helpers.php');
 <div class="container-fluid">
     <div class="jumbotron">
         <h1>Words create worlds.</h1>
-        <p></p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+        <p>
+        	Language was established to explain the world around us. We wanted to communicate to others what we saw, and hear from them what they did. We began telling stories. 
+        </p>
   	</div>
+  	<!-- <div class="row">
+  		<p>
+  			Language was established to explain the world around us. 
+  		</p>
+  	</div> -->
 </div>
 
 <?php render('footer'); ?>

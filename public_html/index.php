@@ -1,5 +1,5 @@
 <?php require_once('../common/header.php');
-      header("Main Page", 1);
+      header("Main Page", 1); ?>
   	<div class="container-fluid">
       <div class="jumbotron">
         <h1>Hello, world!</h1>

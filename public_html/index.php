@@ -5,7 +5,8 @@ require_once('../includes/helpers.php');
 ?>
 
 
-<?php render('header', array('title' => 'Main Page')); ?>
+<?php render('header', array('title' => 'Main Page')); 	
+?>
 
 <div class="container-fluid">
     <div class="jumbotron">

@@ -1,27 +1,28 @@
-<?php function doctypemeta() {?>
-  <!DOCTYPE html>
+<?php function doctypemeta() {
+echo '  <!DOCTYPE html>
   <html lang="en">
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
+';
+}
 
-<?php } ?>
-
-<?php function title($title) {
+function title($title) {
   echo '<title>$title</title>';
 }
 
-function scripts() {?>
-
+function scripts() {
+echo '
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       <script src="js/bootstrap.min.js"></script>
       <link href="css/bootstrap.min.css" rel="stylesheet">
       </head>
+';
+}
 
-<?php }?>
-
-<?php function navbar($activelink) {?>
+function navbar($activelink) {
+echo '
     <body>
   	  <nav class="navbar navbar-default" background="#808080">
     		<div class="container-fluid">
@@ -30,6 +31,7 @@ function scripts() {?>
       		</div>
       	  <div>
         		<ul class="nav navbar-nav">
+            ';
           		<?php
               if($activelink != 1) {
                 echo '<li><a href="#">Home</a></li>';
@@ -55,14 +57,15 @@ function scripts() {?>
               else {
                 echo '<li class="active"><a href="#">Page 3</a></li>';
               }
-              ?>
-        		</ul>
+              
+echo '        		</ul>
      	 	  </div>
      	</nav>
-<?php } 
+      ';
+} 
 
 
-function header($title, $activelink) {
+function headerfunction($title, $activelink) {
   doctypemeta();
   title($title);
   scripts();
@@ -72,3 +75,4 @@ function header($title, $activelink) {
 
 ?>
 
+ 

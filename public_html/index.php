@@ -1,5 +1,6 @@
-<?php require_once('../common/header.php');
-      headerfunction("Main Page", 1); ?>
+<?php require('../common/header.php');
+      headerfunction("Main Page", 1); 
+?>
   	<div class="container-fluid">
       <div class="jumbotron">
         <h1>Hello, world!</h1>

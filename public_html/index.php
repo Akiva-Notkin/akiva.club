@@ -41,7 +41,7 @@ require_once('../includes/helpers.php');
 			      </div>
 			    </div>
 			    <div class="item">
-			      <img src="gameofthrones.jpeg" alt="...">
+			      <img src="images/gameofthrones.jpeg" alt="...">
 			      <div class="carousel-caption">
 			        ...
 			      </div>

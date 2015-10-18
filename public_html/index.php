@@ -5,7 +5,7 @@ require_once('../includes/helpers.php');
 ?>
 
 
-<?php render('header', array('title' => 'Main Page')); 	
+<?php render('header', array('title' => 'Main Page', 'navbar' => 'Home')); 	
 ?>
 
 <div class="container-fluid">

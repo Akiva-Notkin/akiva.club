@@ -21,25 +21,25 @@
         		<ul class="nav navbar-nav">
             
           		<?php
-              if($title != 'Main Page') {
+              if($navbar != 'Home') {
                 echo '<li><a href="#">Home</a></li>';
               }
               else {
                 echo '<li class="active"><a href="#">Home</a></li>';
               }
-              if($title != 'Page1') {
+              if($navbar != 'Page1') {
                 echo '<li><a href="#">Page 1</a></li>';
               }
               else {
                 echo '<li class="active"><a href="#">Page 1</a></li>';
               }
-              if($title != 'Page2') {
+              if($navbar != 'Page2') {
                 echo '<li><a href="#">Page 2</a></li>';
               }
               else {
                 echo '<li class="active"><a href="#">Page 2</a></li>';
               }
-              if($title != 'Page3') {
+              if($navbar != 'Page3') {
                 echo '<li><a href="#">Page 3</a></li>';
               }
               else {

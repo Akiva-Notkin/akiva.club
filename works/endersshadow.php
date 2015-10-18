@@ -26,3 +26,4 @@ require_once('../includes/helpers.php');
 </div>
 
 <?php render('footer'); ?>
+ 

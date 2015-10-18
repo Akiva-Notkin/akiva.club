@@ -5,11 +5,14 @@ require_once('../includes/helpers.php');
 ?>
 
 
-<?php render('header', array('title' => 'CSCI S-75')); ?>
+<?php render('header', array('title' => 'Main Page')); ?>
 
-<ul>
-  <li><a href="lectures.php">Lectures</a></li>
-  <li><a href="http://cdn.cs75.net/2012/summer/lectures/0/syllabus.pdf">Syllabus</a></li>
-</ul>
+<div class="container-fluid">
+    <div class="jumbotron">
+        <h1>Hello, world!</h1>
+        <p>...</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+  	</div>
+</div>
 
 <?php render('footer'); ?>

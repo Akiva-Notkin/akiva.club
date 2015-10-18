@@ -18,22 +18,25 @@
     <![endif]-->
   </head>
   <body>
-	<nav class="navbar navbar-default" background="#808080">
+	  <nav class="navbar navbar-default" background="#808080">
   		<div class="container-fluid">
-  			<div class="navbar-header">
-      			<a class="navbar-brand" href="#">WebSiteName</a>
+  		  <div class="navbar-header">
+      		<a class="navbar-brand" href="#">WebSiteName</a>
     		</div>
-    	<div>
+    	  <div>
       		<ul class="nav navbar-nav">
         		<li class="active"><a href="#">Home</a></li>
         		<li><a href="#">Page 1</a></li>
         		<li><a href="#">Page 2</a></li>
         		<li><a href="#">Page 3</a></li>
       		</ul>
-   	 	</div>
+   	 	  </div>
    	</nav>
-  		<div class="container-fluid">
-  			
+  	<div class="container-fluid">
+      <div class="jumbotron">
+        <h1>Hello, world!</h1>
+        <p>...</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
   		</div>
   	</div>
 

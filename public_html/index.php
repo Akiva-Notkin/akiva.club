@@ -41,7 +41,7 @@ require_once('../includes/helpers.php');
 			      <img src="images/got.png">
 			    </div>
 			    <div class="item">
-			      <img src="images/swordsofsteel.jpg">
+			      <img src="images/endersgame.jpg">
 			    </div>
 			  </div>
 

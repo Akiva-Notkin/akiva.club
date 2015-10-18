@@ -36,17 +36,13 @@ require_once('../includes/helpers.php');
 			  <div class="carousel-inner" role="listbox">
 			    <div class="item active">
 			      <img src="images/middle-earth-map.jpg">
-			      <div class="carousel-caption">
-			        ...
-			      </div>
 			    </div>
 			    <div class="item">
-			      <img src="images/got.png" alt="...">
-			      <div class="carousel-caption">
-			        ...
-			      </div>
+			      <img src="images/got.png">
 			    </div>
-			    ...
+			    <div class="item">
+			      <img src="images/swords.png">
+			    </div>
 			  </div>
 
 			  <!-- Controls -->

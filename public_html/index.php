@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
   <body>
-	<nav class="navbar navbar-top" background="#808080">
+	<nav class="navbar navbar-default" background="#808080">
   		<div class="container-fluid">
   			<div class="navbar-header">
       			<a class="navbar-brand" href="#">WebSiteName</a>

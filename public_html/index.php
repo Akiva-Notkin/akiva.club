@@ -29,7 +29,6 @@ require_once('../includes/helpers.php');
 			  <ol class="carousel-indicators">
 			    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 			    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-			    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
 			  </ol>
 
 			  <!-- Wrapper for slides -->
@@ -41,7 +40,7 @@ require_once('../includes/helpers.php');
 			      </div>
 			    </div>
 			    <div class="item">
-			      <img src="..." alt="...">
+			      <img src="gameofthrones.jpeg" alt="...">
 			      <div class="carousel-caption">
 			        ...
 			      </div>

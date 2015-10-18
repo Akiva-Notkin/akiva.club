@@ -61,6 +61,7 @@ require_once('../includes/helpers.php');
 			  </a>
 			</div>
 	  	</div>
+	  	<div class="col-md-2"></div>
 	</div>
 </div>
 

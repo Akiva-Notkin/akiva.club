@@ -6,7 +6,7 @@ headerworks("Fallout");
 ?>
 
 
-<div class="container-fluid">
+<div class="container-fluid" background-image:url("../images/falloutbackground.jpg")>
 	<br>
 	<div class="row">
 	<div class="col-md-1"></div>

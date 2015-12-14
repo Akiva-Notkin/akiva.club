@@ -1,11 +1,8 @@
 <?php
 
-require_once('../includes/helpers.php');
+require_once('../templates/header.php');
+headerindex("Shadow Worlds");
 
-?>
-
-
-<?php render('header', array('title' => 'Main Page')); 	
 ?>
 
 <div class="container-fluid">
@@ -60,4 +57,4 @@ require_once('../includes/helpers.php');
 	</div>
 </div>
 
-<?php render('footer'); ?>
+<?php require("../templates/footer.php"); ?>

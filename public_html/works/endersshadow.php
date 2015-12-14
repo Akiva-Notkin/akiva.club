@@ -1,8 +1,8 @@
 <?php
 
-require_once('../../includes/helpers.php');
-
-render('worksheader', array('title' => 'Ender\'s Shadow');	
+require_once('../../templates/worksheader.php');
+headerworks("Ender's Shadow");
 
 ?>
 
+<?php require("../../templates/footer.php"); ?>

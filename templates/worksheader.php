@@ -1,3 +1,4 @@
+<?php function headerworks($title) {?>
 <!DOCTYPE html>
 
 <html>
@@ -30,3 +31,7 @@
         			</ul>
      	 	  </div>
      	</nav>
+
+<?php 
+}
+?>

@@ -1,3 +1,5 @@
+<?php function headerindex($title) {?>
+
 <!DOCTYPE html>
 
 <html>
@@ -31,3 +33,6 @@
      	 	  </div>
      	</nav>
 
+<?php 
+}
+?>

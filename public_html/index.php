@@ -6,18 +6,16 @@ headerindex("Shadow Worlds");
 ?>
 
 <div class="container-fluid">
-    <div class="jumbotron">
-        <h1>Words create worlds.</h1>
-        <p>        </p>
-  	</div>
   	<div class="row">
 	  	<div class="col-md-1"></div>
 	  	<div class="col-md-4">
-			<h1>Words create worlds</h1>
 	  		<p>
-	  			Language was established to explain the world around us. While it had a very utilitarian use at first, 
-	  			language began to be used for everything. Words were used to tell grandiose stories about places both real
-	  			and imagined. When one person saw, or even imagined a place, everyone else was able to see it. 
+	  			It’s amazing what people can do with just a little bit of information. When people are told only part of what they want to know, their ability to guess and rationalize the rest is truly incredible.
+<br><br>
+If you have ever seen a movie or read a book, you realized that the world that is shown in the story is not quite the whole world the characters live in. They might have a backstory or friends who never appear in the story. These all have a large impact on how the character acts. They define who the character is.
+<br><br>
+I would love to examine this subject in an academic setting. I want to see how others see certain worlds, how other make connections I just cannot see. When two people look at the same thing and see entirely different things is a wonderful feeling. Finding how we think differently can help almost anyone, and seeing how we view fictional worlds differently is a wonderful way to start.
+
 	  		</p>
 	  	</div>
 	  	<div class="col-md-6">

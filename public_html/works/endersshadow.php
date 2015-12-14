@@ -10,7 +10,7 @@ headerworks("Ender's Shadow");
 	<div class="row">
 		<div class="col-md-1"></div>
 		<div class="col-md-7">
-			<p>
+			<p style="font-size:20px">
 			Ender’s Shadow and the following books in the series focus on Bean, a short but growing kid, who helped Ender defeat an alien race known as the buggers. When he is brought down to Earth following the victory, the planet is unsure of what to do.
 			<br><br>
 			For the past hundred years, earth had been threatened by an alien presence. They never knew if they were going to be attacked, and were forced to band together against the common threat. But when this threat dissipated, the world changed dramatically. Hundreds, if not thousands, of battle trained children came down and were enlisted into their national armies, or occasionally kidnapped and forced to work for others.

@@ -16,13 +16,13 @@
     		<div class="container-fluid">
       	  <div>
         		<ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li><a href="../index.php">Home</a></li>
                 <li class="dropdown">
                 <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Works <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="works/endersshadow.php">Ender's Shadow</a></li>
-                  <li><a href="works/fallout.php">Fallout</a></li>
-                  <li><a href="works/bioshock.php">Bioshock</a></li>
+                  <li><a href="endersshadow.php">Ender's Shadow</a></li>
+                  <li><a href="fallout.php">Fallout</a></li>
+                  <li><a href="bioshock.php">Bioshock</a></li>
                 </ul>
               </li>
               
@@ -30,4 +30,3 @@
         			</ul>
      	 	  </div>
      	</nav>
-

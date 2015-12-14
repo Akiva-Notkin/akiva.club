@@ -2,10 +2,7 @@
 
 require_once('../../includes/helpers.php');
 
-?>
-
-
-<?php render('header', array('title' => 'Ender\'s Shadow', 'navbar' => 'Page1');	
+render('header', array('title' => 'Ender\'s Shadow', 'navbar' => 'Page1');	
 
 ?>
 

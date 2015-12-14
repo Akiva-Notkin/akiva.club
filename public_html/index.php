@@ -35,7 +35,7 @@ require_once('../includes/helpers.php');
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 			    <div class="item active">
-			      <img src="images/middle-earth-map.jpg">
+			      <img src="images/fallout.jpg">
 			    </div>
 			    <div class="item">
 			      <img src="images/got.png">

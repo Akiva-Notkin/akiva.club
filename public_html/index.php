@@ -35,13 +35,13 @@ require_once('../includes/helpers.php');
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 			    <div class="item active">
-			      <img src="images/fallout.jpg">
+			      <a href="works/fallout.php"><img src="images/fallout.jpg"></a>
 			    </div>
 			    <div class="item">
-			      <img src="images/bioshock.jpg">
+			      <a href="works/bioshock.php"><img src="images/bioshock.jpg"></a>
 			    </div>
 			    <div class="item">
-			      <img src="images/endersgame.jpg">
+			      <a href="works/endersgame.php"><img src="images/endersgame.jpg"></a>
 			    </div>
 			  </div>
 

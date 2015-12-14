@@ -6,7 +6,7 @@ headerworks("BioShock");
 ?>
 
 
-<div class="container-fluid" style="background-image:url(../images/falloutbackground.jpg)">
+<div class="container-fluid">
 	<br>
 	<div class="row">
 	<div class="col-md-1"></div>

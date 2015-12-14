@@ -10,7 +10,7 @@ headerworks("Ender's Shadow");
 	<div class="row">
 	<div class="col-md-2"></div>
 		<div class="col-md-4">
-		<img src="../images/Enders-Game.jpg">
+			<img src="../images/Enders-Game.jpg">
 		</div>
 				<div class="col-md-6"></div>
 	</div>

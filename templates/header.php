@@ -29,9 +29,9 @@
                 <ul class="dropdown-menu">
                   <li><a href="works/endersshadow.php">Ender's Shadow</a></li>
                   <li><a href="works/fallout.php">Fallout</a></li>
-                  <li><a href="works/bioshock.php">Something else here</a></li>
+                  <li><a href="works/bioshock.php">Bioshock</a></li>
                 </ul>
-              </li>;
+              </li>
               
               
         			</ul>

@@ -9,7 +9,7 @@ headerworks("Ender's Shadow");
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-1"></div>
-		<div class="col-md-10">
+		<div class="col-md-7">
 			<p>
 			Ender’s Shadow and the following books in the series focus on Bean, a short but growing kid, who helped Ender defeat an alien race known as the buggers. When he is brought down to Earth following the victory, the planet is unsure of what to do.
 			<br><br>

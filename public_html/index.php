@@ -38,7 +38,7 @@ require_once('../includes/helpers.php');
 			      <img src="images/fallout.jpg">
 			    </div>
 			    <div class="item">
-			      <img src="images/got.png">
+			      <img src="images/bioshock.png">
 			    </div>
 			    <div class="item">
 			      <img src="images/endersgame.jpg">

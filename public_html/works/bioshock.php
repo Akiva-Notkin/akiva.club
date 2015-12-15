@@ -22,7 +22,7 @@ headerworks("BioShock");
 <br><br>
 These people have a floating city. They were able to transport a sizeable population into the sky where they felt they would have a more comfortable life. Can you only have this comfortable life when there are others worse off than you who keep up your standard of living? 
 <br><br>
-In the course of the story, those under the city rebel against the city, pushing the previous population out. You are never told how this new society functions, instead you question if this new society, which was created through rebellion, was a positive. The new society might easily dive back into the same mindset where a portion of the population is subservient to the rest. The story wants you to make assumptions.
+In the course of the story, those under the city rebel against the city, pushing the previous population out. You are never told how this new society functions, instead you question if this new society, which was created through rebellion, was a positive. The new society might easily dive back into the same mindset where a portion of the population is subservient to the rest. The story wants you to make assumptions, though they change from person to person.
 
 			</p>
 		</div>

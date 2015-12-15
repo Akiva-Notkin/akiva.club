@@ -7,7 +7,7 @@ headerindex("Shadow Worlds");
 
 <div class="container-fluid">
 	<div class="jumbotron">
-		HELLO
+		<h1>HELLO</h1>
 
 	</div>
   	<div class="row">

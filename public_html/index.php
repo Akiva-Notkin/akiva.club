@@ -18,7 +18,7 @@ headerindex("Shadow Worlds");
 <br><br>
 If you have ever seen a movie or read a book, you realized that the world that is shown in the story is not quite the whole world the characters live in. They might have a backstory or friends who never appear in the story. These all have a large impact on how the character acts. They define who the character is.
 <br><br>
-I would love to examine this subject in an academic setting. I want to see how others see certain worlds, how other make connections I just cannot see. When two people look at the same thing and see entirely different things is a wonderful feeling. Finding how we think differently can help almost anyone, and seeing how we view fictional worlds differently is a wonderful way to start.
+I would love to examine this subject in an academic setting. I want to see how others see certain worlds, how others make connections I just cannot see. When two people look at the same thing and see entirely different things is a wonderful feeling. Finding how we think differently can help almost anyone, and seeing how we view fictional worlds differently is a wonderful way to start.
 
 	  		</p>
 	  	</div>

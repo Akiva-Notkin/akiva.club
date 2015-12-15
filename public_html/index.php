@@ -6,6 +6,10 @@ headerindex("Shadow Worlds");
 ?>
 
 <div class="container-fluid">
+	<div class="jumbotron">
+		HELLO
+
+	</div>
   	<div class="row">
 	  	<div class="col-md-1"></div>
 	  	<div class="col-md-4">

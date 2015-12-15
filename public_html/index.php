@@ -41,7 +41,7 @@ I would love to examine this subject in an academic setting. I want to see how o
 			      <a href="works/bioshock.php"><img src="images/bioshock.jpg"></a>
 			    </div>
 			    <div class="item">
-			      <a href="works/endersgame.php"><img src="images/endersgame.jpg"></a>
+			      <a href="works/endersshadow.php"><img src="images/endersgame.jpg"></a>
 			    </div>
 			  </div>
 

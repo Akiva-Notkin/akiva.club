@@ -23,6 +23,7 @@ I would love to examine this subject in an academic setting. I want to see how o
 	  		</p>
 	  	</div>
 	  	<div class="col-md-6">
+	  		Click the pictures to check out the worlds
 	  		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			  <!-- Indicators -->
 			  <ol class="carousel-indicators">

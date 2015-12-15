@@ -21,7 +21,7 @@ headerworks("Fallout");
 			A world where a nuclear apocalypse happens is a very different world. Not only do the traditional societal and governmental systems collapse, the biological nature of many species, even humans can change.
 <br><br> 
 
-In the Fallout series, you begin as a character around 200 years after a global nuclear apocalypse. From the onset you have to decide who you want to be. Is your character going to be a shoot first ask questions later type of character? Are you going to sneak around everywhere acting like a kleptomaniac? Do you want to be who you think you would be in an apocalyptic scenario or someone completely different? The type of character you choose to be changes how you see the game significantly changing the lessons you see.
+In the Fallout series of video games, you begin as a character around 200 years after a global nuclear apocalypse. From the onset you have to decide who you want to be. Is your character going to be a shoot first ask questions later type of character? Are you going to sneak around everywhere acting like a kleptomaniac? Do you want to be who you think you would be in an apocalyptic scenario or someone completely different? The type of character you choose to be changes how you see the game significantly changing the lessons you see.
 <br><br>
 Quickly you get released into an open world for you to explore. Now you can go on the main quest and explore the main story to see what happens but by running around randomly you can find things to do. You find people with stories of woe or of happiness and you get to decide if you want to help them. Who you help matters as you explore the world. The game remembers and word gets around surprisingly fast sometimes.
 <br><br>

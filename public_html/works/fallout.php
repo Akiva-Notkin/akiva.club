@@ -18,14 +18,13 @@ headerworks("Fallout");
 		<div class="col-md-1"></div>
 		<div class="col-md-7">
 			<p style="font-size:20px">
-			A world where a nuclear apocalypse happens is a very different world. Not only do the traditional societal and governmental systems collapse, the biological nature of many species, even humans can change.
-<br><br> 
+			When worlds are different from our own, the assumptions we make initially are often skewed. 
+<br><br>
+In the Fallout series, you begin as a character around 200 years after a global nuclear apocalypse. A large part of this game is deciding who you are. Sometimes you pick a character who you think you would be in a postapocalyptic setting. Sometimes you pick a character the opposite of you. Unsurprisingly, the decisions you make regarding your character can change how you see the game. So in a more overt sense, different people can get a different feel from the world. Discussing the choices you made about your character can show what students thought the world should look like as much as what they found.
 
-In the Fallout series of video games, you begin as a character around 200 years after a global nuclear apocalypse. From the onset you have to decide who you want to be. Is your character going to be a shoot first ask questions later type of character? Are you going to sneak around everywhere acting like a kleptomaniac? Do you want to be who you think you would be in an apocalyptic scenario or someone completely different? The type of character you choose to be changes how you see the game significantly changing the lessons you see.
 <br><br>
-Quickly you get released into an open world for you to explore. Now you can go on the main quest and explore the main story to see what happens but by running around randomly you can find things to do. You find people with stories of woe or of happiness and you get to decide if you want to help them. Who you help matters as you explore the world. The game remembers and word gets around surprisingly fast sometimes.
-<br><br>
-One of the main plot lines of the first few games is that a prewar government entity known as the Enclave attempts to destroy all “contaminated” individuals in the mainland, which encompasses almost everyone, and repopulate the US. When you are among those who are supposed to be terminated because small parts of you changed, you treat those who want to attack all slightly differently. 
+Quickly you get released into an open world for you to explore. Now you can go on the main quest and explore the main story to see what happens but by running around randomly you can find things to do. You find people with stories of woe or stories of happiness and you get to decide if and how you want to help them. Who you help matters as you explore the world. The game remembers and word gets around surprisingly fast sometimes.
+While this type of video game is a bit more varied than a linear story, it still can bring stimulating discussion about how different people see the world in the game. Though the story might be changed by the choices players make in the world more than the world itself, the world would still have a large impact on how people feel.
 
 			</p>
 		</div>

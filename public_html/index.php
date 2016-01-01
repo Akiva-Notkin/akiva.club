@@ -16,11 +16,11 @@ headerindex("Shadow Worlds");
 	  		<p style="font-size:18px">
 	  			It’s amazing what people can do with just a little bit of information. When people are told only part of what they want to know, their ability to guess and rationalize the rest is truly incredible.
 <br><br>
-If you have ever seen a movie or read a book, you realized that the world that is shown in the story is not quite the whole world the characters live in. They might have a backstory or friends who never appear in the story. These all have a large impact on how the character acts. They define who the character is.  Each reader creates their own unique world from the template that the author of the book, movie or video game presents. 
+What’s even more incredible is the radically different way people see the same worlds. When two people read the same book or see the same movie, they fill in the gaps differently. Though they may have read the same sentence, they did not see the same world.
 <br><br>
-I want students to be able to recognize what makes their own world unique and what common features are. The only way to see different perspectives in a realistic sense is to hear from people who have different perspectives. A class where students begin with the same base material but bring different perspectives would really accentuate what students assume and what they might only believe with evidence from others.
+If you have ever seen a movie or read a book, you realized that the world that is shown in the story is not quite the whole world the characters live in. They might have a backstory or friends who never appear in the story. These all have a large impact on how the character acts. They define who the character is. So when each reader creates their own unique world from the template that the author of the book, movie or video game provides, they see something nobody else truly has. 
 <br><br>
-I would love to examine this subject in an academic setting because I want to see how others see certain worlds and how other make connections I just cannot see. When two people look at the same thing and see entirely different things it is a wonderful feeling. Finding how we think differently can help almost anyone, and seeing how we view fictional worlds differently is a wonderful way to start exploring our how we see the world differently.
+Students should be able to recognize what makes their own world unique and what common features are. The only way to see different perspectives in a realistic sense is to hear from people who have different perspectives. A class where students begin with the same base material but bring different perspectives will accentuate what students assume and what they might only believe with evidence from others.
 
 	  		</p>
 	  	</div>

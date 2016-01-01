@@ -7,8 +7,8 @@ headerindex("Shadow Worlds");
 
 <div class="container-fluid">
 	<div class="jumbotron">
-		<h1>Shadow Worlds</h1>
-		<h3>Some see what others do not</h3>
+		<h2>Shadow Worlds</h2>
+		<h4>Some see what others do not</h4>
 	</div>
   	<div class="row">
 	  	<div class="col-md-1"></div>

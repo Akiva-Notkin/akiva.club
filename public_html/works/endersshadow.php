@@ -8,11 +8,9 @@ headerworks("Ender's Shadow");
 
 <div class="container-fluid">
 	<div class="row">
-	<div class="col-md-2"></div>
-		<div class="col-md-4">
+<div class="col-md-1"></div>	
 			<img src="../images/rsz_1endersshadow-banner.jpg">
-		</div>
-				<div class="col-md-6"></div>
+
 	</div>
 	<br>
 	<div class="row">
